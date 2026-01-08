@@ -109,23 +109,7 @@ student-performance-prediction/
 3. The model explains ~85% of variance in student performance
 4. Model can help identify students who need extra support
 
-## 💡 Interview Talking Points
 
-**Q: What does this project do?**
-- Predicts student exam scores using study hours and attendance
-
-**Q: What algorithm did you use?**
-- Linear Regression (supervised learning algorithm)
-
-**Q: How accurate is your model?**
-- Approximately 85% accuracy (R² score)
-
-**Q: What libraries did you use?**
-- pandas (data handling), scikit-learn (ML), matplotlib (visualization), numpy (numerical operations)
-
-**Q: What did the model learn?**
-- More study hours → Higher scores
-- Better attendance → Higher scores
 
 ## 🎯 Future Enhancements
 
